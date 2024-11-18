@@ -1,0 +1,47 @@
+Number of components =            1
+Number of bodies =            1
+Number of particles =         4000
+Number of material sets  =            1
+DTScale =      0.100
+MUSL method is used 
+Material:
+1 hiex 1.63d-3 6930
+the effective number of material           1
+Grid mass CutOff value:   0.2037E-11
+ 
+Number of grid      8084
+cells (x,y,z) 2020   1   1
+ 
+     --- body  1 ---
+                    mass:  0.1019E-03
+          kinetic energy:  0.0000E+00
+         internal energy:  0.4370E+03
+       --- total ---
+              total mass:  0.1019E-03
+    total kinetic energy:  0.0000E+00
+   total internal energy:  0.4370E+03
+ 
+DT =  0.722E-06
+ Step=     1  T= 7.215E-07  K.E.= 0.000E+00  T.E.= 4.371E+02
+              Mx= 0.000E+00   My= 0.000E+00   Mz= 0.000E+00
+ Step=   139  T= 1.003E-04  K.E.= 1.737E-01  T.E.= 4.371E+02
+              Mx= 0.327E-03   My= 0.000E+00   Mz= 0.000E+00
+ Step=   278  T= 2.006E-04  K.E.= 3.969E-01  T.E.= 4.370E+02
+              Mx= 0.674E-03   My= 0.000E+00   Mz= 0.000E+00
+ Step=   416  T= 3.001E-04  K.E.= 6.226E-01  T.E.= 4.370E+02
+              Mx= 0.102E-02   My= 0.000E+00   Mz= 0.000E+00
+ Step=   555  T= 4.004E-04  K.E.= 8.217E-01  T.E.= 4.369E+02
+              Mx= 0.137E-02   My= 0.000E+00   Mz= 0.000E+00
+ Step=   693  T= 5.000E-04  K.E.= 1.049E+00  T.E.= 4.369E+02
+              Mx= 0.171E-02   My= 0.000E+00   Mz= 0.000E+00
+ Step=   832  T= 6.003E-04  K.E.= 1.262E+00  T.E.= 4.368E+02
+              Mx= 0.205E-02   My= 0.000E+00   Mz= 0.000E+00
+ Step=   971  T= 7.006E-04  K.E.= 1.514E+00  T.E.= 4.367E+02
+              Mx= 0.239E-02   My= 0.000E+00   Mz= 0.000E+00
+ Step=  1109  T= 8.001E-04  K.E.= 1.717E+00  T.E.= 4.366E+02
+              Mx= 0.272E-02   My= 0.000E+00   Mz= 0.000E+00
+ Step=  1248  T= 9.004E-04  K.E.= 1.952E+00  T.E.= 4.365E+02
+              Mx= 0.305E-02   My= 0.000E+00   Mz= 0.000E+00
+ Step=  1386  T= 1.000E-03  K.E.= 2.179E+00  T.E.= 4.364E+02
+              Mx= 0.339E-02   My= 0.000E+00   Mz= 0.000E+00
+ Write output data

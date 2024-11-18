@@ -1,0 +1,78 @@
+Number of components =            2
+Number of bodies =            2
+Number of particles =       138278
+Number of material sets  =            1
+DTScale =      0.001
+MUSL method is used 
+Material:
+1 sjcf 11.350d-3 22.4d3 0.42d0 12.0 125.0 1.0 0.0 1e-3 3.0
+the effective number of material           1
+Grid mass CutOff value:   0.1081E-05
+ 
+Number of grid    825968
+cells (x,y,z)  142  75  75
+ 
+     --- body  1 ---
+                    mass:  0.2370E+02
+          kinetic energy:  0.5131E+09
+         internal energy:  0.0000E+00
+     --- body  2 ---
+                    mass:  0.2204E+04
+          kinetic energy:  0.0000E+00
+         internal energy:  0.0000E+00
+       --- total ---
+              total mass:  0.2228E+04
+    total kinetic energy:  0.5131E+09
+   total internal energy:  0.0000E+00
+ 
+DT =  0.944E-06
+ Step=     1  T= 9.445E-07  K.E.= 5.130E+08  T.E.= 5.130E+08
+              Mx= 0.156E+06   My= 0.000E+00   Mz= 0.000E+00
+ Step=  1059  T= 1.000E-03  K.E.= 4.213E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My=-0.131E+00   Mz=-0.131E+00
+ Write output data
+ Step=  2118  T= 2.000E-03  K.E.= 4.300E+08  T.E.= 5.131E+08
+              Mx= 0.156E+06   My=-0.141E+00   Mz=-0.141E+00
+ Step=  3177  T= 3.001E-03  K.E.= 4.470E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My=-0.153E+00   Mz=-0.153E+00
+ Write output data
+ Step=  4236  T= 4.001E-03  K.E.= 4.364E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My=-0.102E+00   Mz=-0.102E+00
+ Step=  5294  T= 5.000E-03  K.E.= 4.386E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My=-0.600E-01   Mz=-0.600E-01
+ Write output data
+number of failed particles =        266
+ Step=  6353  T= 6.000E-03  K.E.= 4.349E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My=-0.550E-01   Mz=-0.550E-01
+ Step=  7412  T= 7.001E-03  K.E.= 4.366E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My=-0.249E-01   Mz=-0.249E-01
+ Write output data
+number of failed particles =        693
+ Step=  8471  T= 8.001E-03  K.E.= 4.331E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My= 0.565E-01   Mz= 0.565E-01
+ Step=  9529  T= 9.000E-03  K.E.= 4.279E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My=-0.363E-01   Mz=-0.363E-01
+ Write output data
+number of failed particles =       1203
+ Step= 10588  T= 1.000E-02  K.E.= 4.294E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My=-0.112E+00   Mz=-0.112E+00
+ Step= 11647  T= 1.100E-02  K.E.= 4.286E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My=-0.202E+00   Mz=-0.202E+00
+ Write output data
+number of failed particles =       1669
+ Step= 12706  T= 1.200E-02  K.E.= 4.306E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My=-0.291E+00   Mz=-0.291E+00
+ Step= 13764  T= 1.300E-02  K.E.= 4.300E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My=-0.236E+00   Mz=-0.236E+00
+ Write output data
+number of failed particles =       2084
+ Step= 14823  T= 1.400E-02  K.E.= 4.297E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My=-0.185E+00   Mz=-0.185E+00
+ Step= 15882  T= 1.500E-02  K.E.= 4.300E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My=-0.169E+00   Mz=-0.169E+00
+ Write output data
+number of failed particles =       2431
+ Step= 16941  T= 1.600E-02  K.E.= 4.299E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My=-0.115E+00   Mz=-0.115E+00
+ Step= 18000  T= 1.700E-02  K.E.= 4.297E+08  T.E.= 5.132E+08
+              Mx= 0.156E+06   My=-0.163E+00   Mz=-0.163E+00

@@ -44,8 +44,10 @@ contains
 
     integer :: idx
 
-    call GETARG(1,jobname)
-
+    !call GETARG(1,jobname)
+    write(*,*)"Please input filename:"
+    read(*,*) jobname
+    jobname= "data/"//jobname
     idx = index(jobname,".")
     if (idx > 0) then
         fName = jobname(1:index(jobname,".")-1)

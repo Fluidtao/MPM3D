@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1" byte_order="BigEndian" compressor="vtkZLibDataCompressor">
+    <Collection>
+    <DataSet timestep="  0.0000E+00" group="" part="0" file="data/Deto1k_anim_1.vtu"/>
+    <DataSet timestep="  0.1001E-02" group="" part="0" file="data/Deto1k_anim_2.vtu"/>
